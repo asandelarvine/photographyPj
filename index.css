@@ -1,0 +1,104 @@
+/*start of div*/
+html, body{
+    padding: 0;
+    margin: 0;
+    
+}
+#body1{
+    background-color: darkgray;
+    font-size: 14px;
+    background-image: url(https://2bridges.b-cdn.net/wp-content/uploads/2019/08/candidphotography-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    height: 100%;
+    
+
+}
+#topbar{
+    height: 70px;
+    background-color: black;
+    color: chartreuse;
+} 
+#topbar #left{
+    width: 20%;
+    float: left;
+    height: 100%;
+    font-size: 30px;
+    font-style: italic;
+    padding-left: 60px;
+}
+#topbar #right{
+    width: 20%;
+    float: right;
+    height: 100%;
+    font-size: 15px;
+    font-style: italic;
+    padding-right: 40px;
+}
+p.a{
+    font-size: 30px;
+    color: rgb(245, 235, 151);
+
+}
+#middlebar {
+    height: 950px;
+    background-size: 100%;
+    font-size: 3vmin;
+    font-style: inherit;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+#middlebar{
+    color:rgb(245, 235, 151); ;
+}
+h3.a{
+    color: whitesmoke;
+    padding: right 10px;
+
+}
+
+.body {
+        background-color: darkgray;
+        font-size: 20px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position:center ;
+        height: 100%;
+}
+h3{
+    font-size: 35px;
+    font-style: italic;
+    color:darkgreen;
+}
+form{
+    text-align: center;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: chartreuse;
+    text-align: center;
+  }
+    
+#cbody{
+    background-color: darkgreen;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    font-size: 25px;
+    height: 100%;
+    background-repeat: no-repeat;
+}
+#body2{
+    background-color:gold;
+    font-size: 14px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    height: 100%;
+}
+ 
