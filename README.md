@@ -8,7 +8,6 @@ https://asandelarvine.github.io/photographyPj/
 ## Technologies Used
 HTML and CSS
 ### Licence
-{ MIT License}Copyright (c) {2021} **{Larvine}**
-### Project Design
-{file:///home/access/Documents/pre-prep_project1/project_design/des.jpg}
+{ MIT License}Copyright (c) {2021} **{Larvinecuments/pre-prep_project1/project_design/des.jpg}
 
+}**
