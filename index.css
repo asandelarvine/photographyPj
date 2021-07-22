@@ -1,117 +1,102 @@
 /*start of div*/
-html, body{
-    padding: 0;
-    margin: 0;
-    
-}
-#body1{
-    background-color: darkgray;
-    font-size: 14px;
-    background-image: url(https://wallpaperaccess.com/full/1724580.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position:center ;
-    height: 100%;
-    
 
+html, body {
+	padding: 0;
+	margin: 0;
 }
-#topbar{
-    height: 70px;
-    background-color: black;
-    color: chartreuse;
-} 
-#topbar #left{
-    width: 20%;
-    float: left;
-    height: 100%;
-    font-size: 30px;
-    font-style: italic;
-    padding-left: 60px;
+#body1 {
+	background-color: darkgray;
+	font-size: 14px;
+	background-image: url(https://wallpaperaccess.com/full/1724580.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
 }
-#topbar #right{
-    width: 20%;
-    float: right;
-    height: 100%;
-    font-size: 15px;
-    font-style: italic;
-    padding-right: 40px;
+#topbar {
+	height: 70px;
+	background-color: black;
+	color: chartreuse;
 }
-p.a{
-    font-size: 30px;
-    color: rgb(245, 235, 151);
-
+#topbar #left {
+	width: 20%;
+	float: left;
+	height: 100%;
+	font-size: 30px;
+	font-style: italic;
+	padding-left: 60px;
+}
+#topbar #right {
+	width: 20%;
+	float: right;
+	height: 100%;
+	font-size: 15px;
+	font-style: italic;
+	padding-right: 40px;
+}
+p.a {
+	font-size: 30px;
+	color: rgb(245, 235, 151);
 }
 #middlebar {
-    height: 950px;
-    background-size: 100%;
-    font-size: 3vmin;
-    font-style: inherit;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    bottom: 0;
-    
-
-
-    
+	height: 950px;
+	background-size: 100%;
+	font-size: 3vmin;
+	font-style: inherit;
+	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	bottom: 0;
 }
-#middlebar{
-    color:rgb(245, 235, 151); 
-    float: left;
-    padding: 14px 16px;
-    display: block;
-
-
+#middlebar {
+	color: rgb(245, 235, 151);
+	float: left;
+	padding: 14px 16px;
+	display: block;
 }
-h3.a{
-    color: whitesmoke;
-    padding: right 10px;
-
+h3.a {
+	color: whitesmoke;
+	padding: right 10px;
 }
-
 .body {
-        background-color: darkgray;
-        font-size: 20px;
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position:center ;
-        height: 100%;
+	background-color: darkgray;
+	font-size: 20px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
 }
-h3{
-    font-size: 35px;
-    font-style: italic;
-    color:darkgreen;
+h3 {
+	font-size: 35px;
+	font-style: italic;
+	color: darkgreen;
 }
-form{
-    text-align: center;
+form {
+	text-align: center;
 }
 .footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: black;
-    color: chartreuse;
-    text-align: center;
-  }
-    
-#cbody{
-    background-color: darkgreen;
-    background-position: center;
-    background-size: cover;
-    text-align: center;
-    font-size: 25px;
-    height: 100%;
-    background-repeat: no-repeat;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	color: chartreuse;
+	text-align: center;
 }
-
-.abody{
-    background-color:gray;
+#cbody {
+	background-color: darkgreen;
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	font-size: 25px;
+	height: 100%;
+	background-repeat: no-repeat;
 }
-
-#body2{
-    background-color:rgb(224, 207, 207);
-    font-size: 30px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position:center ;
-    height: 100%;
+.abody {
+	background-color: gray;
 }
- 
+#body2 {
+	background-color: rgb(224, 207, 207);
+	font-size: 30px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+}
